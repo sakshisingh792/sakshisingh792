@@ -14,6 +14,7 @@
 * CSS
 * Git & GitHub
 * SQL
+* Powerbi
 
 ---
 
