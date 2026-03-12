@@ -41,10 +41,12 @@ Features:
 
 ---
 
-💰 FinAI: Intelligent Expense Tracker
+### 💰 FinAI: Intelligent Expense Tracker
+
 A next-generation, full-stack Django application designed to track expenses, manage personal finances, and provide actionable insights through Artificial Intelligence and Computer Vision.
 
 ✨ Key Features:
+
 🤖 AI Financial Advisor: An integrated, RAG-based chatbot powered by the Gemini 2.5 API that reads your real-time database to answer questions and analyze spending habits.
 
 📸 Smart Receipt Scanning: Built-in Computer Vision using Tesseract OCR to extract totals directly from uploaded receipt images.
