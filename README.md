@@ -6,15 +6,14 @@
 
 ---
 
-## 🛠 Skills
 
-* Python
-* Django
-* HTML
-* CSS
-* Git & GitHub
-* SQL
-* Powerbi
+
+## 🛠️ My Tech Stack
+* **Backend:** Python, Django, Django REST Framework, APIs
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Design & UI/UX:** Figma (Responsive Design, Prototyping, Component Libraries)
+* **Data & Analytics:** Power BI, SQL, Data Visualization & Reporting
+* **Core Skills:** Data Structures & Algorithms, Systems Integration, AI Prompt Engineering (LLMs)
 
 ---
 
