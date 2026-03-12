@@ -41,15 +41,23 @@ Features:
 
 ---
 
-### 💰 Expense Tracker
+💰 FinAI: Intelligent Expense Tracker
+A next-generation, full-stack Django application designed to track expenses, manage personal finances, and provide actionable insights through Artificial Intelligence and Computer Vision.
 
-A full-stack Django application to track expenses and manage personal finances.
+✨ Key Features:
+🤖 AI Financial Advisor: An integrated, RAG-based chatbot powered by the Gemini 2.5 API that reads your real-time database to answer questions and analyze spending habits.
 
-Features:
+📸 Smart Receipt Scanning: Built-in Computer Vision using Tesseract OCR to extract totals directly from uploaded receipt images.
 
-* Expense tracking
-* Data filtering
-* CSV export
+✨ AI Auto-Categorization: Fuzzy-matching AI that automatically predicts and assigns the correct custom category based on your transaction description.
+
+📊 Interactive Analytics: Beautiful, dynamic pie charts and 6-month spending trend lines powered by Chart.js.
+
+🌓 Premium Responsive UI: A sleek, fully responsive frontend with automatic Light/Dark mode switching using CSS variables.
+
+🎯 Budgets & Savings Goals: Set monthly limits with visual warning alerts and track long-term savings goals with dynamic progress bars.
+
+📥 Advanced Exporting: Download your complete financial history as formatted CSVs or PDFs for tax and record-keeping purposes.
 
 ---
 
